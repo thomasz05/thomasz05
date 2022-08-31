@@ -1,6 +1,6 @@
 ### Hello!
   >- • 16 anni                             • Pietrarossa🎮 
-  >- • Veneto🍷                            • Aiutante Redcraft🔴 
+  >- • Veneto🍷                          
   >- • Levi-Ponti IIS💻                   • Proprietario bot discord TTS🤖 
   >- • Amministratore mc.titanet.it
 
