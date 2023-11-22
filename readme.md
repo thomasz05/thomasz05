@@ -27,6 +27,7 @@ Sono un appassionato programmatore  nel campo della tecnologia. Vivo in Veneto, 
 ## Contatti
 Puoi trovarmi su GitHub:
 - GitHub: [Il mio profilo GitHub](https://github.com/thomasz05)
+- Telegram: [Il mio Telegram](https://t.me/thomasz_05)
 
 Non esitare a contattarmi se hai domande o desideri collaborare su progetti interessanti. Sarà un piacere condividere la mia vasta esperienza nel mondo della programmazione con te!
 
