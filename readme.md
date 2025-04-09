@@ -21,7 +21,7 @@ Sono un appassionato programmatore  nel campo della tecnologia. Vivo in Veneto, 
 ## Informazioni personali
 - Età: 20 anni
 - Luogo: Veneto, Italia
-- Scuola: Università Ca' Foscari 💻
+- Università Ca' Foscari 💻
 - Occupazione: Amministratore di mc.titanet.it
 
 ## Contatti
