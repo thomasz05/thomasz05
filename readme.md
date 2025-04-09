@@ -19,9 +19,9 @@
 Sono un appassionato programmatore  nel campo della tecnologia. Vivo in Veneto, Italia, e sono un'alunno del Levi-Ponti IIS, dove ho coltivato la mia passione per la programmazione e la tecnologia. Sono anche il proprietario di un bot Discord TTS (Text-to-Speech) e un amministratore del server mc.titanet.it.
 
 ## Informazioni personali
-- Età: 17 anni
+- Età: 20 anni
 - Luogo: Veneto, Italia
-- Scuola: Levi-Ponti IIS
+- Scuola: Università Ca' Foscari 💻
 - Occupazione: Amministratore di mc.titanet.it
 
 ## Contatti
